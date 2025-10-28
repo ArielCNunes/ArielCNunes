@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Who am I:
 Final Year Software Development student @ ATU Galway. Currently working on my Final Year Project which is a Saas application aimed at delivering an efficient business solution to barber shops around Ireland.
 
 
